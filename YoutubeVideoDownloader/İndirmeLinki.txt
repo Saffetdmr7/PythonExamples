@@ -1,1 +1,10 @@
+Bu projede youtube url ile video indirilebiliyor.
+video indirmemizi sağlayan kütüphane yt_dlp kullanıldı
+kullanılan logolar Pillow ile projeye dahil edildi.
+Arayüz kütüphanesi olarak tkinter kullanıldı.
+projenin daha verimli çalışması için threads kütüphanesinden faydalanıldı.
+projenin dosyaları mediafire a yedeklendi. (Github upload sıkıntısı sebebiyle)
 
+Projenin indirme linki:
+https://www.mediafire.com/file/iri1lvhsw78r59e/YoutubeVideoDownloader.zip/file
+bu linkte Projenin kaynak dosyalarının yanı sıra .Exe formatında çalışan bir sürümü de bulunuyor.
